@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to my GitHub 🎉
 
-<!--
-**LittleMilo2001/LittleMilo2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **LittleMilo2001**, a maker of things.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Reading the source is the best documentation
+- ⚡ Fun fact: I write code while drinking coffee
+- 👯 Looking to collaborate on open source
+- 🛠️ Build small, ship often
+- 🌟 Open source enthusiast
+
+## Tech
+
+`Go` `RabbitMQ` `Rails` `Vim` `Nuxt` `Flask`
+
+---
+
+_No js frameworks please._
